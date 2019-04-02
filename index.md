@@ -16,13 +16,13 @@ Manoa Exchange is a Meteor Application that allows the UH Manoa community to sel
 # Mockup Pages
 
 ### Landing Page
-<img src="doc/landingpage.jpg">
+<img src="images/landingpage.jpg">
 
 ### User Page
-<img src="doc/userpage.jpg">
+<img src="images/userpage.jpg">
 
 ### Search Page
-<img src="doc/searchpage.jpg">
+<img src="images/searchpage.jpg">
 
 
 # Contributers
