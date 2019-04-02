@@ -1,6 +1,7 @@
 # Table of Contents
 * [Overview](#overview)
 * [Goals](#goals)
+* [Contributers](#contributers)
 * [Mockup Pages](#mockup-pages)
 
 # Overview
@@ -11,6 +12,12 @@ Manoa Exchange is a Meteor Application that allows the UH Manoa community to sel
 
 * Connect the UH Manoa community 
 * Buy/Sell goods
+
+# Contributers
+
+[Shawn Anthony](https://shawn-anthony.github.io/ "Shawn Anothony")
+[Christopher Na](https://chrisn3.github.io/ "Christopher Na")
+[Katherine Piniol](https://piniolk.github.io/ "Katherine Piniol")
 
 # Mockup Pages
 
