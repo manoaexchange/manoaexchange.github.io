@@ -24,6 +24,9 @@ Manoa Exchange is a Meteor Application that allows the UH Manoa community to sel
 ### Search Page
 <img src="images/searchpage.jpg">
 
+### Offer Page
+<img src="images/offerpage.jpg">
+
 
 # Contributers
 
