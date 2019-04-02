@@ -15,6 +15,11 @@ Manoa Exchange is a Meteor Application that allows the UH Manoa community to sel
 
 # Mockup Pages
 
+![landing](https://github.com/manoaexchange/manoaexchange.github.io/blob/master/images/landing.jpg "landing page")
+![user page](https://github.com/manoaexchange/manoaexchange.github.io/blob/master/images/userpage.jpg "user page")
+![search page](https://github.com/manoaexchange/manoaexchange.github.io/blob/master/images/searchpage.jpg "search page")
+
+
 # Contributers
 
 This was a joint project created by [Shawn Anthony,](https://shawn-anthony.github.io/ "Shawn Anothony") [Christopher Na,](https://chrisn3.github.io/ "Christopher Na") and [Katherine Piniol.](https://piniolk.github.io/ "Katherine Piniol")
