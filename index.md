@@ -3,7 +3,10 @@
 ## Table of Contents
 * [Overview](#overview)
 * [Goals](#goals)
+* [Installation](#installation)
 * [Mockup Pages](#mockup-pages)
+* [Progress](#progress)
+  * [Milestone 1](#milestone-1)
 * [Contributers](#contributers)
 
 ## Overview
@@ -14,6 +17,16 @@ Manoa Exchange is a Meteor Application that allows the UH Manoa community to sel
 
 * Connect the UH Manoa community 
 * Buy/Sell goods
+
+## Installation 
+
+1. Install [meteor.](https://www.meteor.com/install)
+2. Download [Manoa Exchange.](https://github.com/manoaexchange/manoaexchange)
+3. CD into app/ directory and install libraries.
+`meteor npm install`
+4. Run application.
+`meteor npm run start`
+5. Open Application on [http://localhost:3000/.](http://localhost:3000/)
 
 ## Mockup Pages
 
@@ -28,6 +41,13 @@ Manoa Exchange is a Meteor Application that allows the UH Manoa community to sel
 
 ### Offer Page
 <img src="images/offerpage.jpg">
+
+## Progress
+
+### Milestone 1
+
+Start creating mockup pages for select few pages. These include the landing page, home pages, profile page, and notification pages.
+See [Project Board](https://github.com/manoaexchange/manoaexchange/projects/1) for more details.
 
 
 ## Contributers
