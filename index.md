@@ -6,7 +6,7 @@
 * [Installation](#installation)
 * [Mockup Pages](#mockup-pages)
 * [Progress](#progress)
-..*[Milestone 1](#milestone-1)
+  * [Milestone 1](#milestone-1)
 * [Contributers](#contributers)
 
 ## Overview
