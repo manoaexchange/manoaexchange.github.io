@@ -80,4 +80,4 @@ See [Project Board](https://github.com/manoaexchange/manoaexchange/projects/1) f
 
 ## Contributers
 
-This was a joint project created by [Shawn Anthony,](https://shawn-anthony.github.io/ "Shawn Anothony") [Christopher Na,](https://chrisn3.github.io/ "Christopher Na") and [Katherine Piniol.](https://piniolk.github.io/ "Katherine Piniol")
+This was a joint project created by [Shawn Anthony,](https://shawn-anthony.github.io/ "Shawn Anthony") [Christopher Na,](https://chrisn3.github.io/ "Christopher Na") and [Katherine Piniol.](https://piniolk.github.io/ "Katherine Piniol")
