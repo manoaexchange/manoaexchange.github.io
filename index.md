@@ -12,7 +12,7 @@
 * [Progress](#progress)
   * [Milestone 1](#milestone-1)
    * [Milestone 2](#milestone-2)
-* [Contributers](#contributers)
+* [Contributors](#contributors)
 
 ---
 
@@ -78,6 +78,6 @@ See [Project Board](https://github.com/manoaexchange/manoaexchange/projects/1) f
 
 ---
 
-## Contributers
+## Contributors
 
 This was a joint project created by [Shawn Anthony,](https://shawn-anthony.github.io/ "Shawn Anthony") [Christopher Na,](https://chrisn3.github.io/ "Christopher Na") and [Katherine Piniol.](https://piniolk.github.io/ "Katherine Piniol")
