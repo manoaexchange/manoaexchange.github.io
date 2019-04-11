@@ -1,3 +1,9 @@
+### Links 
+
+[Project Board](https://github.com/manoaexchange/manoaexchange/projects) | [App Code](https://github.com/manoaexchange/manoaexchange) | [Galaxy](https://galaxy.meteor.com/app/manoaexchange.meteorapp.com) 
+
+---
+
 ## Table of Contents
 * [Overview](#overview)
 * [Goals](#goals)
