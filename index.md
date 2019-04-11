@@ -11,6 +11,7 @@
 ---
 
 ## Overview
+<img src="images/home.PNG">
 
 Manoa Exchange is a Meteor Application that allows the UH Manoa community to sell their unwanted dormitory and/or apartment appliances. This makes it easy for students, faculty, and staff alike to post and find potential products, along with setting up a meeting on campus to exchange goods. 
 
@@ -42,22 +43,35 @@ Manoa Exchange is a UH community tool.  Registration will be required for access
 
 ---
 
-## Mockup Pages
+## Interface Walkthrough 
 
 ### Landing Page
+The first page you will see is the introduction page, letting you know the capabilities of the application.
 <img src="images/landing.PNG">
 
+### Register an account 
+In order to access the features of ManoaExchange, you need to register
+<img src="images/signup.PNG">
+
+### Sign in page
+If you have an account, click the login icon on the top right of the website.
+<img src="images/signin.PNG">
+
 ### Home Page
+Logging in will redirect you to the home page which will allow you further access to features of the application.
 <img src="images/home.PNG">
 
 ### User Page
+One feature is creating a profile page to see a summary of currently listed items for sale. You may also view other users profile pages.
 <img src="images/profile.PNG">
 
-### Sign in page
-<img src="images/signin.PNG">
+### Message a seller
+If you see an item you would like to purchase, message the buyer with an offer or to simply meet up.
+<img src="images/message.PNG">
 
-### Sign up page
-<img src="images/signup.PNG">
+### Report a user
+Unfortunately you may run into inappropriate behavior from other users on this site. CLick on the report button to notify an admin of the issue.
+<img src="images/report.PNG">
 
 ---
 
