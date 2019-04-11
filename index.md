@@ -67,7 +67,7 @@ If you have an account, click the login icon on the top right of the website.
 Logging in will redirect you to the home page which will allow you further access to features of the application.
 <img src="images/home.PNG">
 
-### User Page
+### Profile Page
 One feature is creating a profile page to see a summary of currently listed items for sale. You may also view other users profile pages.
 <img src="images/profile.PNG">
 
@@ -76,7 +76,7 @@ If you see an item you would like to purchase, message the buyer with an offer o
 <img src="images/message.PNG">
 
 ### Report a user
-Unfortunately you may run into inappropriate behavior from other users on this site. CLick on the report button to notify an admin of the issue.
+Unfortunately you may run into inappropriate behavior from other users on this site. Click on the report button to notify an admin of the issue.
 <img src="images/report.PNG">
 
 ---
