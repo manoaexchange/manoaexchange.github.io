@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
-Landing Page for ManoaExchange
+## Welcome to ManoaExchange
 
 <img class="ui image" src="images/landing.PNG">
