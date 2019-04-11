@@ -2,4 +2,4 @@
 
 Landing Page for Manoaxchange
 
-<img class="ui image" src="../images/landing.PNG">
+<img class="ui image" src="images/landing.PNG">
