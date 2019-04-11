@@ -1,5 +1,3 @@
-# Manoa Exchange
-
 ## Table of Contents
 * [Overview](#overview)
 * [Goals](#goals)
@@ -7,6 +5,7 @@
 * [Mockup Pages](#mockup-pages)
 * [Progress](#progress)
   * [Milestone 1](#milestone-1)
+   * [Milestone 2}(#milestone-2)
 * [Contributers](#contributers)
 
 ## Overview
@@ -49,6 +48,7 @@ Manoa Exchange is a Meteor Application that allows the UH Manoa community to sel
 Start creating mockup pages for select few pages. These include the landing page, home pages, profile page, and notification pages.
 See [Project Board](https://github.com/manoaexchange/manoaexchange/projects/1) for more details.
 
+### Milestone 2
 
 ## Contributers
 
