@@ -45,19 +45,19 @@ Manoa Exchange is a UH community tool.  Registration will be required for access
 ## Mockup Pages
 
 ### Landing Page
-<img src="images/landingpage.png">
+<img src="images/landing.PNG">
 
 ### Home Page
-<img src="images/home.png">
+<img src="images/home.PNG">
 
 ### User Page
-<img src="images/profile.png">
+<img src="images/profile.PNG">
 
 ### Sign in page
-<img src="images/signin.png">
+<img src="images/signin.PNG">
 
 ### Sign up page
-<img src="images/signup.png">
+<img src="images/signup.PNG">
 
 ---
 
