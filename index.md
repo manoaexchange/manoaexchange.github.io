@@ -1,6 +1,6 @@
 ### Links 
 
-[Project Board](https://github.com/manoaexchange/manoaexchange/projects) | [App Code](https://github.com/manoaexchange/manoaexchange) | [Galaxy](https://galaxy.meteor.com/app/manoaexchange.meteorapp.com) 
+[Project Board](https://github.com/manoaexchange/manoaexchange/projects) | [App Code](https://github.com/manoaexchange/manoaexchange) | [Galaxy](http://manoaexchange.meteorapp.com/#/) 
 
 ---
 
@@ -9,9 +9,9 @@
 * [Goals](#goals)
 * [Installation](#installation)
 * [Mockup Pages](#mockup-pages)
-* [Progress](#progress)
+* [Development Progress](#development-progress)
   * [Milestone 1](#milestone-1)
-   * [Milestone 2](#milestone-2)
+  * [Milestone 2](#milestone-2)
 * [Contributors](#contributors)
 
 ---
