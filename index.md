@@ -89,6 +89,8 @@ This section shows our progress in creating the application.
 
 **Status: Complete**
 
+**Versions 1-6**
+
 **Date: 3/31/19-4/11/19**
 
 Start creating mockup pages for a select few pages. We first started coding in a React application. Once we had our mockup pages created, we transferred it over to the Meteor application. Along with the mockup pages, links toward over half the pages work, but are not implemented yet. 
@@ -100,6 +102,8 @@ Pages Worked On:
 * Profile page
 * Message Page
 * Report page
+
+As of now, the landing page, user home, profile, message and report pages are only mockup pages. Sign in/sign up allows a user to sign in but does not redirect to correct page. And the landing page has both the navigation bar for new users and signed it users. The navigation bar will be fixed once user only functions is imnplemented, and is there only to show what it looks like for new users. 
 
 See [Milestone 1 Project Board](https://github.com/manoaexchange/manoaexchange/projects/1) for more details.
 
