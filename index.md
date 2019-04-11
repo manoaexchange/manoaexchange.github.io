@@ -1,12 +1,18 @@
+### Links 
+
+[Project Board](https://github.com/manoaexchange/manoaexchange/projects) | [App Code](https://github.com/manoaexchange/manoaexchange) | [Galaxy](http://manoaexchange.meteorapp.com/#/) 
+
+---
+
 ## Table of Contents
 * [Overview](#overview)
 * [Goals](#goals)
 * [Installation](#installation)
 * [Mockup Pages](#mockup-pages)
-* [Progress](#progress)
+* [Development Progress](#development-progress)
   * [Milestone 1](#milestone-1)
-   * [Milestone 2](#milestone-2)
-* [Contributers](#contributers)
+  * [Milestone 2](#milestone-2)
+* [Contributors](#contributors)
 
 ---
 
@@ -75,17 +81,40 @@ Unfortunately you may run into inappropriate behavior from other users on this s
 
 ---
 
-## Progress
+## Development Progress
+
+This section shows our progress in creating the application. 
 
 ### Milestone 1
 
-Start creating mockup pages for a select few pages. These include the landing page, home pages, profile page, and notification pages.  Began work on important site-wide components; these included a Nav bar to be displayed on every page, and the react-router to handle the linking of pages.
-See [Project Board](https://github.com/manoaexchange/manoaexchange/projects/1) for more details.
+**Status: Complete**
+
+**Date: 3/31/19-4/11/19**
+
+Start creating mockup pages for a select few pages. We first started coding in a React application. Once we had our mockup pages created, we transferred it over to the Meteor application. Along with the mockup pages, links toward over half the pages work, but are not implemented yet. 
+
+Pages Worked On:
+* Landing page
+* Sign in/Sign up pages
+* User Home page
+* Profile page
+* Message Page
+* Report page
+
+See [Milestone 1 Project Board](https://github.com/manoaexchange/manoaexchange/projects/1) for more details.
 
 ### Milestone 2
 
+**Status: Incomplete**
+
+**Date: 4/12/19-**
+
+Finish Mockup for remaining pages and implement functions of Milestone 1 pages along with a few extra functions. 
+
+See [Milestone 2 Project Board](https://github.com/manoaexchange/manoaexchange/projects/2) for more details.
+
 ---
 
-## Contributers
+## Contributors
 
-This was a joint project created by [Shawn Anthony,](https://shawn-anthony.github.io/ "Shawn Anothony") [Christopher Na,](https://chrisn3.github.io/ "Christopher Na") and [Katherine Piniol.](https://piniolk.github.io/ "Katherine Piniol")
+This was a joint project created by [Shawn Anthony,](https://shawn-anthony.github.io/ "Shawn Anthony") [Christopher Na,](https://chrisn3.github.io/ "Christopher Na") and [Katherine Piniol.](https://piniolk.github.io/ "Katherine Piniol")
