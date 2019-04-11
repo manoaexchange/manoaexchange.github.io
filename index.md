@@ -16,6 +16,7 @@ Manoa Exchange is a Meteor Application that allows the UH Manoa community to sel
 
 * Connect the UH Manoa community 
 * Buy/Sell goods
+* Provide an easy to use interface to facilitate transfer of goods between people
 
 ## Installation 
 
@@ -26,6 +27,10 @@ Manoa Exchange is a Meteor Application that allows the UH Manoa community to sel
 4. Run application.
 `meteor npm run start`
 5. Open Application on [http://localhost:3000/.](http://localhost:3000/)
+
+## Startup
+
+Manoa Exchange is a UH community tool.  Registration will be required for access to all features of the application.  To register, click sign in at the top right of the page, and in the dropdown menu, click sign up.  You will be taken to the sign up page to quickly create an account, after creation you will have full access to the features the application.  You will be able to search for a multitude of items being offered by members of the UH community, or list items of your own.
 
 ## Mockup Pages
 
@@ -45,7 +50,7 @@ Manoa Exchange is a Meteor Application that allows the UH Manoa community to sel
 
 ### Milestone 1
 
-Start creating mockup pages for select few pages. These include the landing page, home pages, profile page, and notification pages.
+Start creating mockup pages for a select few pages. These include the landing page, home pages, profile page, and notification pages.  Began work on important site-wide components; these included a Nav bar to be displayed on every page, and the react-router to handle the linking of pages.
 See [Project Board](https://github.com/manoaexchange/manoaexchange/projects/1) for more details.
 
 ### Milestone 2
