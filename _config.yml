@@ -2,3 +2,9 @@ title: Manoa Exchange
 description: Connecting the UH Community to buy/sell goods.
 theme: jekyll-theme-slate
 show_downloads: true
+github:
+  is_project_page: true
+  projectboard_url: https://github.com/manoaexchange/manoaexchange/projects
+  code_url: https://github.com/manoaexchange/manoaexchange
+  galaxy_url: http://manoaexchange.meteorapp.com/#/
+  
