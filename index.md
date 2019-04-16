@@ -8,7 +8,7 @@
 * [Overview](#overview)
 * [Goals](#goals)
 * [Installation](#installation)
-* [Mockup Pages](#mockup-pages)
+* [Interface Walkthrough](#interface-walkthrough)
 * [Development Progress](#development-progress)
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
@@ -21,8 +21,6 @@
 
 Manoa Exchange is a Meteor Application that allows the UH Manoa community to sell their unwanted dormitory and/or apartment appliances. This makes it easy for students, faculty, and staff alike to post and find potential products, along with setting up a meeting on campus to exchange goods. 
 
-[Table of Contents](#table-of-contents)
-
 ---
 
 ## Goals 
@@ -30,8 +28,6 @@ Manoa Exchange is a Meteor Application that allows the UH Manoa community to sel
 * Connect the UH Manoa community 
 * Buy/Sell goods
 * Provide an easy to use interface to facilitate transfer of goods between people
-
-[Table of Contents](#table-of-contents)
 
 ---
 
@@ -45,15 +41,11 @@ Manoa Exchange is a Meteor Application that allows the UH Manoa community to sel
 `meteor npm run start`
 5. Open Application on [http://localhost:3000/.](http://localhost:3000/)
 
-[Table of Contents](#table-of-contents)
-
 ---
 
 ## Startup
 
 Manoa Exchange is a UH community tool.  Registration will be required for access to all features of the application.  To register, click sign in at the top right of the page, and in the dropdown menu, click sign up.  You will be taken to the sign up page to quickly create an account, after creation you will have full access to the features the application.  You will be able to search for a multitude of items being offered by members of the UH community, or list items of your own.
-
-[Table of Contents](#table-of-contents)
 
 ---
 
@@ -86,8 +78,6 @@ If you see an item you would like to purchase, message the buyer with an offer o
 ### Report a user
 Unfortunately you may run into inappropriate behavior from other users on this site. Click on the report button to notify an admin of the issue.
 <img src="images/report.PNG">
-
-[Table of Contents](#table-of-contents)
 
 ---
 
@@ -127,12 +117,10 @@ Finish Mockup for remaining pages and implement functions of Milestone 1 pages a
 
 See [Milestone 2 Project Board](https://github.com/manoaexchange/manoaexchange/projects/2) for more details.
 
-[Table of Contents](#table-of-contents)
-
 ---
 
 ## Contributors
 
 This was a joint project created by [Shawn Anthony,](https://shawn-anthony.github.io/ "Shawn Anthony") [Christopher Na,](https://chrisn3.github.io/ "Christopher Na") and [Katherine Piniol.](https://piniolk.github.io/ "Katherine Piniol")
 
-[Table of Contents](#table-of-contents)
+[Top of Page](#links)
