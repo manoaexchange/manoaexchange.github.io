@@ -22,9 +22,11 @@
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
           
-          <a class="button" href="{{ site.github.projectboard_url }}">Project Board</a>
-          <a class="btn" href="{{ site.github.code_url }}">Application Code</a>
-          <a class="btn" href="{{ site.github.galaxy_url }}">Galaxy</a>
+          <h4 href="{{ site.github.projectboard_url }}">Project Board</h4>
+          <h4> | </h4>
+          <h4 href="{{ site.github.code_url }}">Application Code</h4>
+          <h4> | </h4>
+          <h4 href="{{ site.github.galaxy_url }}">Galaxy</h4>
           
           {% if site.show_downloads %}
             <section id="downloads">
