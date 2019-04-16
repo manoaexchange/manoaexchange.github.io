@@ -1,7 +1,3 @@
-### Links 
-
-[Project Board](https://github.com/manoaexchange/manoaexchange/projects) | [App Code](https://github.com/manoaexchange/manoaexchange) | [Galaxy](http://manoaexchange.meteorapp.com/#/) 
-
 ---
 
 ## Table of Contents
@@ -123,4 +119,4 @@ See [Milestone 2 Project Board](https://github.com/manoaexchange/manoaexchange/p
 
 This was a joint project created by [Shawn Anthony,](https://shawn-anthony.github.io/ "Shawn Anthony") [Christopher Na,](https://chrisn3.github.io/ "Christopher Na") and [Katherine Piniol.](https://piniolk.github.io/ "Katherine Piniol")
 
-[Top of Page](#links)
+[Top of Page](#table-of-contents)
