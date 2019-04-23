@@ -2,7 +2,7 @@
 * [Overview](#overview)
 * [Goals](#goals)
 * [Installation](#installation)
-* [Interface Walkthrough](#interface-walkthrough)
+* [User Guide](#user-guide)
 * [Development Progress](#development-progress)
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
@@ -43,7 +43,7 @@ Manoa Exchange is a UH community tool.  Registration will be required for access
 
 ---
 
-## Interface Walkthrough 
+## User Guide
 
 ### Landing Page
 The first page you will see is the introduction page, letting you know the capabilities of the application.
