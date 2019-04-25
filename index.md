@@ -109,15 +109,14 @@ See [Milestone 1 Project Board](https://github.com/manoaexchange/manoaexchange/p
 
 **Goals:** Finish Mockup for remaining pages and implement functions of Milestone 1 pages along with a few extra functions. 
 
-See [Milestone 2 Project Board](https://github.com/manoaexchange/manoaexchange/projects/2) for more details.
-
-**Summary:** 
-Pages that have added functionality are:
-* collections for items, messages and reports
+**Summary of completed tasks:** 
+* Collections for items, messages and reports
 * List of owned items 
 * Edit the item
 * Search by category 
 * Messages system
+
+See [Milestone 2 Project Board](https://github.com/manoaexchange/manoaexchange/projects/2) for more details.'
 
 ### Milestone 3
 
@@ -126,7 +125,9 @@ Pages that have added functionality are:
 **Date 4/25/19 -**
 
 **Goals:**
-Start creating functional meteor pages that could interact and store data into a database. We successfully deployed it to meteor
+Finish all remaining issues and create a consistent theme across the site. Clean up any leftover and unused files.
+
+**Summary of completed tasks:** 
 
 See [Milestone 3 Project Board](https://github.com/manoaexchange/manoaexchange/projects/3)
 for more details

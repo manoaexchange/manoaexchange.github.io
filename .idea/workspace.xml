@@ -29,8 +29,8 @@
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="359">
-                <caret line="128" column="128" selection-start-line="128" selection-start-column="128" selection-end-line="128" selection-end-column="128" />
+              <first_editor relative-caret-position="577">
+                <caret line="127" column="114" selection-start-line="127" selection-start-column="114" selection-end-line="127" selection-end-column="114" />
               </first_editor>
               <second_editor />
             </state>
@@ -56,7 +56,7 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="1385" />
     <option name="height" value="1090" />
@@ -174,8 +174,8 @@
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="359">
-            <caret line="128" column="128" selection-start-line="128" selection-start-column="128" selection-end-line="128" selection-end-column="128" />
+          <first_editor relative-caret-position="577">
+            <caret line="127" column="114" selection-start-line="127" selection-start-column="114" selection-end-line="127" selection-end-column="114" />
           </first_editor>
           <second_editor />
         </state>
