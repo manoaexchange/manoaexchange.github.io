@@ -49,11 +49,11 @@ Manoa Exchange is a UH community tool.  Registration will be required for access
 The first page you will see is the introduction page, letting you know the capabilities of the application.
 <img src="images/landing.PNG">
 
-### Register an account 
+### Register an Account 
 In order to access the features of ManoaExchange, you need to register
 <img src="images/signup.PNG">
 
-### Sign in page
+### Sign-in Page
 If you have an account, click the login icon on the top right of the website.
 <img src="images/signin.PNG">
 
@@ -65,13 +65,30 @@ Logging in will redirect you to the home page which will allow you further acces
 One feature is creating a profile page to see a summary of currently listed items for sale. You may also view other users profile pages.
 <img src="images/profile.PNG">
 
-### Message a seller
-If you see an item you would like to purchase, message the buyer with an offer or to simply meet up.
+### Search Page
+Search all items listed for an item you may be interested in. 
+
+
+### Categories
+Don't know what you want? Search by category
+
+
+### Search By Categories
+List of all items in your category.
+
+
+### List of All Messages
+List of everyone you have ever been in contact with. 
+
+
+### Message A Seller
+If you see an item you would like to purchase, message the buyer with an offer or to simply meet up with this message system.
 <img src="images/message.PNG">
 
 ### Report a user
 Unfortunately you may run into inappropriate behavior from other users on this site. Click on the report button to notify an admin of the issue.
 <img src="images/report.PNG">
+
 
 ---
 
