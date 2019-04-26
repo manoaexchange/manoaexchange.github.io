@@ -59,7 +59,7 @@ If you have an account, click the login icon on the top right of the website.
 
 ### Home Page
 Logging in will redirect you to the home page which will allow you further access to features of the application.
-<img src="images/home.PNG">
+<img src="images/home2.PNG">
 
 ### Profile Page
 One feature is creating a profile page to see a summary of currently listed items for sale. You may also view other users profile pages.
@@ -67,19 +67,19 @@ One feature is creating a profile page to see a summary of currently listed item
 
 ### Search Page
 Search all items listed for an item you may be interested in. 
-
+<img src="images/search.PNG">
 
 ### Categories
 Don't know what you want? Search by category
-
+<img src="images/categories.PNG">
 
 ### Search By Categories
 List of all items in your category.
-
+<img src="images/categoriesList.PNG">
 
 ### List of All Messages
 List of everyone you have ever been in contact with. 
-
+<img src="images/allMessage.PNG">
 
 ### Message A Seller
 If you see an item you would like to purchase, message the buyer with an offer or to simply meet up with this message system.
