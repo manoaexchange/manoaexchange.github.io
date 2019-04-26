@@ -122,7 +122,7 @@ See [Milestone 1 Project Board](https://github.com/manoaexchange/manoaexchange/p
 
 **Status: Complete**
 
-**Versions 7-19**
+**Versions 7-20**
 
 **Date: 4/12/19 - 4/25/19**
 
