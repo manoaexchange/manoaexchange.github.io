@@ -1,7 +1,7 @@
 ## Table of Contents
 * [Overview](#overview)
 * [Goals](#goals)
-* [Developer's Guide](#developer's-guide)
+* [Developer's Guide](#developers-guide)
 * [User Guide](#user-guide)
 * [Development Progress](#development-progress)
   * [Milestone 1](#milestone-1)
@@ -25,7 +25,7 @@ Manoa Exchange is a Meteor Application that allows the UH Manoa community to sel
 
 ---
 
-## Developer's Guide 
+## Developers Guide 
 
 1. Install [meteor.](https://www.meteor.com/install)
 2. Download [Manoa Exchange.](https://github.com/manoaexchange/manoaexchange)
