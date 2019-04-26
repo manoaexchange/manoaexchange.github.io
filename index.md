@@ -1,7 +1,7 @@
 ## Table of Contents
 * [Overview](#overview)
 * [Goals](#goals)
-* [Installation](#installation)
+* [Developer's Guide](#developer's-guide)
 * [User Guide](#user-guide)
 * [Development Progress](#development-progress)
   * [Milestone 1](#milestone-1)
@@ -25,7 +25,7 @@ Manoa Exchange is a Meteor Application that allows the UH Manoa community to sel
 
 ---
 
-## Installation 
+## Developer's Guide 
 
 1. Install [meteor.](https://www.meteor.com/install)
 2. Download [Manoa Exchange.](https://github.com/manoaexchange/manoaexchange)
@@ -120,7 +120,9 @@ See [Milestone 1 Project Board](https://github.com/manoaexchange/manoaexchange/p
 
 ### Milestone 2
 
-**Status: complete**
+**Status: Complete**
+
+**Versions 7-19**
 
 **Date: 4/12/19 - 4/25/19**
 
@@ -139,7 +141,7 @@ See [Milestone 2 Project Board](https://github.com/manoaexchange/manoaexchange/p
 
 **Status: Incomplete**
 
-**Date 4/25/19 -**
+**Date 4/26/19 -**
 
 **Goals:**
 Finish all remaining issues and create a consistent theme across the site. Clean up any leftover and unused files.
