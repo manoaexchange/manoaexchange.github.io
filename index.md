@@ -65,10 +65,6 @@ Logging in will redirect you to the home page which will allow you further acces
 One feature is creating a profile page to see a summary of currently listed items for sale. You may also view other users profile pages.
 <img src="images/profile.PNG">
 
-### Search Page
-Search all items listed for an item you may be interested in. 
-<img src="images/search.PNG">
-
 ### Categories
 Don't know what you want? Search by category
 <img src="images/categories.PNG">
@@ -89,6 +85,8 @@ If you see an item you would like to purchase, message the buyer with an offer o
 Unfortunately you may run into inappropriate behavior from other users on this site. Click on the report button to notify an admin of the issue.
 <img src="images/report.PNG">
 
+### Admin Page
+Admins view reports submitted by users and from their judgement, may or may not delete the item or user said reports is on. 
 
 ---
 
@@ -140,6 +138,8 @@ See [Milestone 2 Project Board](https://github.com/manoaexchange/manoaexchange/p
 ### Milestone 3
 
 **Status: Incomplete**
+
+**Versions 21-**
 
 **Date 4/26/19 -**
 
