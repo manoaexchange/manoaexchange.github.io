@@ -159,9 +159,19 @@ for more details
 
 ---
 
+## Community Feedback
+*"Posting items was useful and easy. However some areas did not work such as messages"* 
+
+Undergrad Senior computer science major
+
+*"The listing items was easy to use. The ui design needs work"* 
+
+Undergrad Junior Computer Science major
 
 ## Contributors
 
 This was a joint project created by [Shawn Anthony,](https://shawn-anthony.github.io/ "Shawn Anthony") [Christopher Na,](https://chrisn3.github.io/ "Christopher Na") and [Katherine Piniol.](https://piniolk.github.io/ "Katherine Piniol")
 
 [Top of Page](#table-of-contents)
+
+
