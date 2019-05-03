@@ -6,6 +6,7 @@
 * [Development Progress](#development-progress)
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
+ * [Community Feedback](#community-feedback)
 * [Contributors](#contributors)
 
 ---
