@@ -51,7 +51,7 @@ The first page you will see is the introduction page, letting you know the capab
 
 ### Register an Account 
 In order to access the features of ManoaExchange, you need to register
-<img src="images/signup.PNG">
+<img src="images/register.PNG">
 
 ### Sign-in Page
 If you have an account, click the login icon on the top right of the website.
@@ -59,11 +59,24 @@ If you have an account, click the login icon on the top right of the website.
 
 ### Home Page
 Logging in will redirect you to the home page which will allow you further access to features of the application.
-<img src="images/home2.PNG">
+<img src="images/home.PNG">
 
 ### Profile Page
 One feature is creating a profile page to see a summary of currently listed items for sale. You may also view other users profile pages.
-<img src="images/profile.PNG">
+<img src="images/profile1.PNG">
+<img src="images/profile2.PNG">
+
+### Edit Profile Page
+Need to make changes to your profile? Edit as you need.
+<img src="images/editprofile.PNG">
+
+### Create an Item
+List an item you no longer want up for sale.
+<img src="images/createitem.PNG">
+
+### Edit an Item
+Edit the information of your item.
+<img src="images/edititem.PNG">
 
 ### Categories
 Don't know what you want? Search by category
@@ -71,15 +84,7 @@ Don't know what you want? Search by category
 
 ### Search By Categories
 List of all items in your category.
-<img src="images/categoriesList.PNG">
-
-### List of All Messages
-List of everyone you have ever been in contact with. 
-<img src="images/allMessage.PNG">
-
-### Message A Seller
-If you see an item you would like to purchase, message the buyer with an offer or to simply meet up with this message system.
-<img src="images/message.PNG">
+<img src="images/categorylist.PNG">
 
 ### Report a user
 Unfortunately you may run into inappropriate behavior from other users on this site. Click on the report button to notify an admin of the issue.
@@ -87,6 +92,7 @@ Unfortunately you may run into inappropriate behavior from other users on this s
 
 ### Admin Page
 Admins view reports submitted by users and from their judgement, may or may not delete the item or user said reports is on. 
+<img src="images/admin.PNG">
 
 ---
 
