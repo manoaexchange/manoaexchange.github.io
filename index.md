@@ -65,7 +65,6 @@ Logging in will redirect you to the home page which will allow you further acces
 ### Profile Page
 One feature is creating a profile page to see a summary of currently listed items for sale. You may also view other users profile pages.
 <img src="images/profile1.PNG">
-<img src="images/profile2.PNG">
 
 ### Edit Profile Page
 Need to make changes to your profile? Edit as you need.
