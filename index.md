@@ -162,15 +162,19 @@ for more details.
 ## Community Feedback
 *"Posting items was useful and easy. However some areas did not work such as messages"* 
 
-Undergrad Senior computer science major
+~Undergraduate Senior computer science major
 
 *"The listing items was easy to use. The ui design needs work"* 
 
-Undergrad Junior Computer Science major
+~Undergraduate Junior Computer Science major
 
-*"The website is not straightforward and could need work style-wise."
+*"The website is not straightforward and could need work style-wise."*
 
-Biology major graduate
+~Graduate Biology major 
+
+*"Interesting concept, would like to use this when I move"*
+
+~Undergraduate Junior Computer Science major
 
 ## Contributors
 
