@@ -7,7 +7,7 @@
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
   * [Milestone 3](#milestone-3)
- * [Community Feedback](#community-feedback)
+* [Community Feedback](#community-feedback)
 * [Contributors](#contributors)
 
 ---
@@ -143,9 +143,9 @@ See [Milestone 2 Project Board](https://github.com/manoaexchange/manoaexchange/p
 
 ### Milestone 3
 
-**Status: Incomplete**
+**Status: Complete**
 
-**Versions 21-**
+**Versions 21-26**
 
 **Date 4/26/19 - 5/06/19**
 
