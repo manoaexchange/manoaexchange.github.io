@@ -6,6 +6,7 @@
 * [Development Progress](#development-progress)
   * [Milestone 1](#milestone-1)
   * [Milestone 2](#milestone-2)
+  * [Milestone 3](#milestone-3)
  * [Community Feedback](#community-feedback)
 * [Contributors](#contributors)
 
@@ -137,7 +138,6 @@ See [Milestone 1 Project Board](https://github.com/manoaexchange/manoaexchange/p
 * List of owned items 
 * Edit the item
 * Search by category 
-* Messages system
 
 See [Milestone 2 Project Board](https://github.com/manoaexchange/manoaexchange/projects/2) for more details.'
 
@@ -147,7 +147,7 @@ See [Milestone 2 Project Board](https://github.com/manoaexchange/manoaexchange/p
 
 **Versions 21-**
 
-**Date 4/26/19 -**
+**Date 4/26/19 - 5/06/19**
 
 **Goals:**
 Finish all remaining issues and create a consistent theme across the site. Clean up any leftover and unused files.
@@ -155,7 +155,7 @@ Finish all remaining issues and create a consistent theme across the site. Clean
 **Summary of completed tasks:** 
 
 See [Milestone 3 Project Board](https://github.com/manoaexchange/manoaexchange/projects/3)
-for more details
+for more details.
 
 ---
 
