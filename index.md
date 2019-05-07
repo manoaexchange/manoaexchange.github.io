@@ -168,6 +168,10 @@ Undergrad Senior computer science major
 
 Undergrad Junior Computer Science major
 
+*"The website is not straightforward and could need work style-wise."
+
+Biology major graduate
+
 ## Contributors
 
 This was a joint project created by [Shawn Anthony,](https://shawn-anthony.github.io/ "Shawn Anthony") [Christopher Na,](https://chrisn3.github.io/ "Christopher Na") and [Katherine Piniol.](https://piniolk.github.io/ "Katherine Piniol")
